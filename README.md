@@ -81,9 +81,9 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=adityagundecha&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pradipbabar&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagundecha&theme=dark&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pradipbabar&theme=dark&hide_border=true" />
 
 
   
@@ -91,7 +91,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adityagundecha&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Pradipbabar&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -116,7 +116,7 @@
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adityagundecha&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Pradipbabar&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
@@ -131,9 +131,7 @@
 
 
 <br>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adityagundecha&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+
 
 
 
