@@ -8,14 +8,8 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; A developer turned DevOps Engineer with a passion for automating everything
-- 👨‍👦‍👦 &nbsp; Efficient team leader with a knack of solving critical business problems 
-
 
 <br>
-
-
-
-
 
 
 ### 💻 Stack I Work With
@@ -62,20 +56,8 @@
 </p>
 <br>
 
-
-
-
-
-
-
-
 <p  align="center">
-
-                  
   <br>
-
-  
-  
   
 <table border="0" align="center">
 <tr border="0">
@@ -85,9 +67,8 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pradipbabar&theme=dark&hide_border=true" />
 
-
   
-</td>
+  </td>
 
 <td width="50%" align="center">
 
@@ -103,15 +84,6 @@
 </p>  
                                                                                     
 
-
-
-
-
-
-
-
-
-
 <br>
 <p align="center">
 <div align=center>
@@ -125,19 +97,7 @@
 
  <hr>
 
-
-
-
-
-
 <br>
-
-
-
-
-
-
-
 
 
  <br> 
