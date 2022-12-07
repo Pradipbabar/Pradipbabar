@@ -49,7 +49,7 @@
 &nbsp;
     <img src="https://img.shields.io/badge/gradle-EEEEEE.svg?&style=for-the-badge&logo=gradle&logoColor=black" height="25">
 &nbsp;
-  <img src="https://img.shields.io/badge/visual_studio_code-EEEEEE.svg?&style=for-the-badge&logo=visual%20studio&logoColor=blue" height="25">
+  <img src="https://img.shields.io/badge/vs_code-EEEEEE.svg?&style=for-the-badge&logo=visual%20studio&logoColor=blue" height="25">
 &nbsp;
   <img src="https://img.shields.io/badge/python-EEEEEE.svg?&style=for-the-badge&logo=python" height="25">
 
