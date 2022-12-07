@@ -31,27 +31,27 @@
   <p  align="center">
 
   
-<img src="https://img.shields.io/badge/prometheus-DA4E2A.svg?&style=for-the-badge&logo=prometheus&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/jenkins-DA4E2A.svg?&style=for-the-badge&logo=jenkins&logoColor=white" height="25"/>
   &nbsp;
-<img src="https://img.shields.io/badge/grafana-E65728.svg?&style=for-the-badge&logo=grafana&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/github_Action-E65728.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
   &nbsp;
-<img src="https://img.shields.io/badge/Elasticsearch-E4B519.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=black" height="25"/>  
+<img src="https://img.shields.io/badge/docker_compose-0078D4.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>  
  </p>
  
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CloudFoundry-EEEEEE?style=for-the-badge&logo=CloudFoundry" height="25">
+<img src="https://img.shields.io/badge/AWS-EEEEEE.svg?&style=for-the-badge&logo=amazon" height="25">
 &nbsp;
-  <img src="https://img.shields.io/badge/Netlify-EEEEEE?style=for-the-badge&logo=Netlify&logoColor=blue" height="25">
+  <img src="https://img.shields.io/badge/terraform-EEEEEE.svg?&style=for-the-badge&logo=terraform&logoColor=purple" height="25">
 &nbsp;
-    <img src="https://img.shields.io/badge/openshift-EEEEEE.svg?&style=for-the-badge&logo=redhat&logoColor=red" height="25">
+    <img src="https://img.shields.io/badge/Ansible-EEEEEE.svg?&style=for-the-badge&logo=Ansible&logoColor=black" height="25">
 &nbsp;
-    <img src="https://img.shields.io/badge/azure-EEEEEE?&style=for-the-badge&logo=microsoft%20azure&logoColor=blue" height="25">
+    <img src="https://img.shields.io/badge/gradle-EEEEEE.svg?&style=for-the-badge&logo=gradle&logoColor=black" height="25">
 &nbsp;
-  <img src="https://img.shields.io/badge/AWS-EEEEEE.svg?&style=for-the-badge&logo=amazon" height="25">
+  <img src="https://img.shields.io/badge/visual_studio_code-EEEEEE.svg?&style=for-the-badge&logo=visual%20studio&logoColor=blue" height="25">
 &nbsp;
-  <img src="https://img.shields.io/badge/Wordpress-EEEEEE?style=for-the-badge&logo=Wordpress&logoColor=blue" height="25">
+  <img src="https://img.shields.io/badge/python-EEEEEE.svg?&style=for-the-badge&logo=python" height="25">
 
 </p>
 <br>
