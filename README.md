@@ -31,7 +31,7 @@
   <p  align="center">
 
   
-<img src="https://img.shields.io/badge/jenkins-DA4E2A.svg?&style=for-the-badge&logo=jenkins&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/jenkins-EEEEEE.svg?&style=for-the-badge&logo=jenkins&logoColor=black" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/github_Action-E65728.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
   &nbsp;
