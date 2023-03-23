@@ -7,7 +7,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; A developer turned DevOps Engineer with a passion for automating everything
+-  &nbsp; "DevOps Engineer with extensive experience in building and deploying cloud-based applications.Passionate about collaborating with developers to optimize the development process and improve software delivery.
 
 <br>
 
