@@ -1,142 +1,97 @@
+### Hi there 👋  
 
+## I'm Pradip Babar  
 
+### 💻 About Me  
+🚀 DevOps Engineer with strong expertise in **cloud platforms, automation, and CI/CD pipelines**.  
+⚡ Passionate about building scalable, secure, and efficient solutions that empower development teams.  
+🔧 Skilled in modern DevOps practices, cloud-native tools, and infrastructure as code.  
 
-### Hi there 👋
+---
 
-## I'm Pradip Babar.
-
-### 💻 &nbsp;About Me 
-
--  &nbsp; "DevOps Engineer with extensive experience in building and deploying cloud-based applications.Passionate about collaborating with developers to optimize the development process and improve software delivery.
-
-<br>
-
-
-### 💻 Stack I Work With
-
-<br>
-
-<p  align="center">
-
-<img src="https://img.shields.io/badge/Kubernets-0078D4.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" height="25"/>
-  </p>
-  
-<p  align="center">
-
-<img src="https://img.shields.io/badge/git-0C2135.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>  
-  &nbsp;
-<img src="https://img.shields.io/badge/docker-0078D4.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>
-  </p>
-  
-  <p  align="center">
-
-  
-<img src="https://img.shields.io/badge/jenkins-EEEEEE.svg?&style=for-the-badge&logo=jenkins&logoColor=black" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/github_Action-E65728.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/docker_compose-0078D4.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>  
- </p>
- 
+### 🛠️ Tech Stack  
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/AWS-EEEEEE.svg?&style=for-the-badge&logo=amazon" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/terraform-EEEEEE.svg?&style=for-the-badge&logo=terraform&logoColor=purple" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/Ansible-EEEEEE.svg?&style=for-the-badge&logo=Ansible&logoColor=black" height="25">
-&nbsp;
-    <img src="https://img.shields.io/badge/gradle-EEEEEE.svg?&style=for-the-badge&logo=gradle&logoColor=black" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/vs_code-EEEEEE.svg?&style=for-the-badge&logo=visual%20studio&logoColor=blue" height="25">
-&nbsp;
-  <img src="https://img.shields.io/badge/python-EEEEEE.svg?&style=for-the-badge&logo=python" height="25">
-
+<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" height="28"/>
 </p>
-<br>
 
-<p  align="center">
-  <br>
-  
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=black" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/Terraform-623CE4.svg?&style=for-the-badge&logo=terraform&logoColor=white" height="28"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=yellow" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/Shell_Scripting-FFD500.svg?&style=for-the-badge&logo=gnu-bash&logoColor=black" height="28"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/docker_compose-0078D4.svg?&style=for-the-badge&logo=docker&logoColor=white" height="28"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/FluxCd-D24939.svg?&style=for-the-badge&logo=flux&logoColor=white" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/Azure%20Pipelines-2560E0.svg?&style=for-the-badge&logo=azuredevops&logoColor=white" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/Linux-4C4A73.svg?&style=for-the-badge&logo=linux&logoColor=white" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/Yaml-4298B8.svg?&style=for-the-badge&logo=yaml&logoColor=white" height="28"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics  
+
+<p align="center">
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pradipbabar&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pradipbabar&theme=dark&hide_border=true" />
 
-  
-  </td>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pradipbabar&theme=tokyonight&show_icons=true&count_private=true" />
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradipbabar&theme=tokyonight&hide_border=true" />
+
+</td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Pradipbabar&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradipbabar&theme=tokyonight&layout=compact&langs_count=8&hide_border=true"/>
+
+</td>
 </tr>
 </table>
-
-<br>
-
-
 </p>  
-                                                                                    
 
-<br>
+---
+
+### 🏆 Achievements  
+
 <p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Pradipbabar&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Pradipbabar&theme=radical&margin-w=5&margin-h=15&no-bg=true" alt="Trophies" />
 </p>
 
-<br>
+---
 
- <hr>
+### 🤝 Connect With Me  
 
-<br>
-
-
- <br> 
- 
- <hr>
- 
- <br>
-
-  <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
 <p align="center">
-<a href="https://in.linkedin.com/in/pradip-babar-7ab00b1a1" target="https://in.linkedin.com/in/pradip-babar-7ab00b1a1">
-  <img align="center" alt="Pradip | Linkedin" width="24px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/> 
+<a href="https://in.linkedin.com/in/pradip-babar-7ab00b1a1" target="_blank">
+  <img align="center" alt="Pradip | Linkedin" width="30px" src="https://img.icons8.com/color/48/linkedin.png"/> 
 </a> &nbsp;&nbsp;
-
 <a href="mailto:prb5928@gmail.com" >
-  <img align="center" alt="Pradip Babar | Gmail" width="26px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/>
-</a> &nbsp;&nbsp;
-
-<p>
-  
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Pradipbabar/count.svg" />  
+  <img align="center" alt="Pradip | Gmail" width="32px" src="https://img.icons8.com/color/48/gmail.png"/>
+</a> 
 </p>
-  <br>
-  <p align="center">
+
+---
+
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradipbabar/Pradipbabar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradipbabar/Pradipbabar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pradipbabar/Pradipbabar/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Pradipbabar/Pradipbabar/output/github-contribution-grid-snake.svg">
 </picture>
 </p>
-
-
